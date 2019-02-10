@@ -1,25 +1,5 @@
 ## 	各种页面常见布局+知名网站实例分析+相关阅读推荐
 
-**阅前必看：本文总结了各种常见的布局实现，网上搜的“史上最全布局”好像也没有这么全吧？哈哈！就当作一个知识整理吧。至于每个方法的优缺点分析会陆续补上。还有就是这篇文章没提到的其他布局，待本人后续想到或遇到定会在此及时更新。各位读者如果发现问题或者有什么意见，欢迎提出！——欢迎关注！欢迎Star！**
-
-
-
-**在github上Markdown不支持目录，所以准备了一个[docsify文档网站](https://sweet-kk.github.io/css-layout/)**。←点这里阅读（已附带目录）
-
-**这个是[效果demo](http://www.sweet-kk.top/css-layout-demo/)**
-
-**如果直接阅读README没有目录会看得很辛苦，建议安装Chrome插件[Smart TOC](https://www.appinn.com/smart-toc-for-chrome/)或者clone到本地用支持TOC目录的md软件打开阅读，比如[Typora](http://www.duote.com/soft/74881.html#download)**
-
-
-
-> from github [https://github.com/Sweet-KK/css-layout(内容随时更新)](https://github.com/Sweet-KK/css-layout)			
->
-> 本文原创，转载请标明出处
->
-> 最近搞了个博客，有兴趣的[点击](https://www.sweet-kk.top/)看看
-
-
-
 ### 目录（PC端推荐用法后面加▲）
 
 [TOC]
